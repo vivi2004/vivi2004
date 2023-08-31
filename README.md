@@ -1,4 +1,7 @@
 <h2 align="center">Hie, This is  VIVEK KUMAR PURBEY SOPHOMORE @IIIT KALYANI</h2>
+<h1 align="center"> . Cloud Computing </h1>
+<h1 align="center"> .DSA </h1>
+<h1 align="center"> .LEARNING PYTHON</h1>
 
 ###
 
