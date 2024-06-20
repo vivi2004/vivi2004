@@ -1,7 +1,7 @@
-<h2 align="center">This is  VIVEK KUMAR PURBEY SOPHOMORE @IIIT KALYANI</h2>
-<h1 align="center"> #Cloud Computing </h1>
-<h1 align="center" > #DSA </h1>
-<h1 align="center"> #Python.</h1>
+<h2 align="center">My name is Vivek Kumar Purbey👦, a  pre-final student at IIIT Kalyani 🧑‍🎓. I have a strong interest in Cloud Computing, Data Structures and Algorithms (DSA), and Python programming . I am passionate about learning and applying new technologies to solve real-world problems.</h2>
+<h1 align="center"> 🧑‍💻🧑‍💻Cloud Computing </h1>
+<h1 align="center" > 🧑‍💻 DSA </h1>
+<h1 align="center">🧑‍💻 Mern Stack</h1>
 
 
 
